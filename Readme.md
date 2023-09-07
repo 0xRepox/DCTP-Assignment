@@ -1,14 +1,11 @@
-# Assignment: Build a well-responsive table with 20 records. You're to use just HTML and CSSS, and then push your code to GitHub.
-
+ # Assignment: Build a well-responsive table with 20 records.
+ 
 This repository contains the solution to an assignment on table creation. In this assignment, I have implemented the requirements and provided a detailed explanation of how to create tables using HTML and CSS. The goal of this assignment was to demonstrate my ability to design and create tables effectively, ensuring data integrity, responsiveness and usability.
 
 ## Table of Contents
 
 - [Assignment Description](#assignment-description)
 - [Solution Overview](#solution-overview)
-- [Instructions](#instructions)
-- [Examples](#examples)
-- [License](#license)
 
 ## Assignment Description
 

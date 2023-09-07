@@ -22,6 +22,7 @@ table {
   width: 100%;
   height: fit-content;
   padding: 30px 40px;
+  border-collapse: collapse;
 }
 th {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -49,5 +50,8 @@ td {
 @media (max-width: 520px) {
   h2 {
     font-size: 35px;
+  }
+  table {
+    font-size: 14px;
   }
 }

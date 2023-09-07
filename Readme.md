@@ -26,4 +26,4 @@ After I had created the HTML file (index.html) and the CSS file (styles.css), wi
 
 
 Thank you for checking out my assignment solution. If you have any questions, feedback, or suggestions, please feel free to [contact me](mailto:babalola.hauyurmidey121@gmail.com). Your input is highly appreciated.
->>>>>>> origin/main
+
